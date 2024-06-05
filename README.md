@@ -2,6 +2,8 @@
 
 Este proyecto implementa un sistema básico de resolución de nombres de dominio utilizando RPC (Remote Procedure Call). Consiste en un cliente que envía un nombre de dominio a un servidor, el cual resuelve el nombre de dominio y devuelve las direcciones IP asociadas.
 
+![](RPC.png)
+
 ## Descripción
 
 El proyecto se compone de dos partes principales:
